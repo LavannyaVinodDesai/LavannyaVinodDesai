@@ -1,6 +1,5 @@
 # Hi, I'm Lavannya V Desai
 
-![Banner](![Banner](https://github.com/LavannyaVinodDesai/LavannyaVinodDesai/raw/main/d0626002-1b8d-4325-be06-f28411fc5f00.png)) 
 
 🎓 Currently pursuing my degree at **RNS Institute of Technology (RNSIT)**  
 💻 Passionate about coding, cybersecurity, and building impactful projects ⚡
@@ -26,10 +25,7 @@
 ## Skills
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 **Web:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
