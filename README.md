@@ -49,9 +49,9 @@
 ---
 
 ## GitHub Stats
-![Lavannya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
+![Lavannya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavannyaVinodDesai&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavannyaVinodDesai&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LavannyaVinodDesai&theme=radical)  
 
 ---
 
