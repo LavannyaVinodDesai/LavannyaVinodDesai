@@ -1,6 +1,6 @@
 # Hi, I'm Lavannya V Desai
 
-![Banner]([https://via.placeholder.com/800x150.png?text=Code+Secure+Innovate](https://www.canva.com/design/DAGy8nV3chs/l0bUZ3oFvPzC906dHzfaOA/view?utm_content=DAGy8nV3chs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h252830ce0a))  <!-- You can replace this with a custom banner image -->
+![Banner](![Banner](https://github.com/LavannyaVinodDesai/LavannyaVinodDesai/raw/main/d0626002-1b8d-4325-be06-f28411fc5f00.png)) 
 
 🎓 Currently pursuing my degree at **RNS Institute of Technology (RNSIT)**  
 💻 Passionate about coding, cybersecurity, and building impactful projects ⚡
