@@ -1,48 +1,49 @@
-# Hi, I'm Lavannya V Desai
+# 🌟 Hi, I'm Lavannya!
 
+### A passionate Problem-Solver & Cybersecurity Enthusiast from India
 
-🎓 Currently pursuing my degree at **RNS Institute of Technology (RNSIT)**  
-💻 Passionate about coding, cybersecurity, and building impactful projects ⚡
-
----
-
-## About Me
-- Continuously improving my programming skills and exploring new technologies ⚡💡  
-- Diving deep into web development, cybersecurity, and ethical hacking 🔐  
-- Problem-solver with a curious mindset and a drive to innovate 🧠  
-- Enthusiastic about contributing to open-source projects 🌱  
-- Always learning, experimenting, and turning ideas into real-world solutions 🚀  
+🎓 Currently pursuing my degree at **RNS Institute of Technology (RNSIT)**.
+💡 Focused on building secure, efficient systems and exploring the world of ethical hacking.
 
 ---
 
-## What I’m Working On
-- Building secure and efficient web applications 💻  
-- Exploring cybersecurity challenges 🔐  
-- Contributing to open-source projects that make an impact 🌟  
+## 🔒 About Me
+
+* I'm diving deep into **Web Development**, **Cybersecurity**, and **Ethical Hacking**.
+* Continuously improving my programming skills and exploring new technologies ⚡.
+* Problem-solver with a curious mindset and a drive to innovate 🧠.
+* Enthusiastic about contributing to open-source projects 🌱.
+* Always learning, experimenting, and turning ideas into real-world solutions 🚀.
 
 ---
 
-## Skills
+## 🛠️ Skills & Tools
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> Ask me about Python, C, JavaScript, or anything related to Network Security... or just say hi!
 
-**Web:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)  
+### Languages & Web:
+* <img src="https://skillicons.dev/icons?i=python,c,java,cpp,javascript,html,css" />
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)   ![Wireshark](https://img.shields.io/badge/Wireshark-0CB1C5?style=for-the-badge&logo=wireshark&logoColor=white)  
-
-**Cybersecurity:**  
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-6CC24A?style=for-the-badge)   ![Pen Testing](https://img.shields.io/badge/Penetration%20Testing-F7DF1E?style=for-the-badge)   ![Network Security](https://img.shields.io/badge/Network%20Security-FF6F61?style=for-the-badge)  
+### Tools & Cybersecurity Platforms:
+* <img src="https://skillicons.dev/icons?i=git,linux,vscode,wireshark" />
+* **Ethical Hacking** | **Penetration Testing** | **Network Security** (Badges look best here)
 
 ---
 
-## GitHub Stats
-![Lavannya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavannyaVinodDesai&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavannyaVinodDesai&layout=compact&theme=radical)  
+## ⚡ GitHub Stats
+
+<div align="center">
+    <a href="https://github.com/LavannyaVinodDesai">
+        <img src="https://github-readme-stats.vercel.app/api?username=LavannyaVinodDesai&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Lavannya's GitHub Stats" />
+    </a>
+    <br/>
+    <a href="https://github.com/LavannyaVinodDesai">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavannyaVinodDesai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </a>
+</div>
 
 ---
 
-## Life in Code
+## ✍️ Life in Code
+
 *"I write code… sometimes it writes back."* 💻⚡
