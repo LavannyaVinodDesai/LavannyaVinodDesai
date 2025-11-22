@@ -3,7 +3,7 @@
 ### A passionate Problem-Solver & Cybersecurity Enthusiast from India
 
 <div align="center">
-    <a href="[www.linkedin.com/in/lavannya-vinod-desai-4493bb292]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="[https://www.linkedin.com/in/lavannya-vinod-desai-4493bb292/]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="[https://www.codechef.com/users/lavannya_077]"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
     <a href="mailto:[lavannya077@gmail.com]"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
