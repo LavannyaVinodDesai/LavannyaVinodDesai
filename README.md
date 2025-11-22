@@ -26,7 +26,7 @@
 
 ### Tools & Cybersecurity Platforms:
 * <img src="https://skillicons.dev/icons?i=git,linux,vscode,wireshark" />
-* **Ethical Hacking** | **Penetration Testing** | **Network Security** (Badges look best here)
+* **Ethical Hacking** | **Penetration Testing** | **Network Security** 
 
 ---
 
